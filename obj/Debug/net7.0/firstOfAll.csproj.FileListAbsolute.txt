@@ -1,0 +1,14 @@
+D:\My\Coding\CSLessons\firstOfAll\bin\Debug\net7.0\firstOfAll.exe
+D:\My\Coding\CSLessons\firstOfAll\bin\Debug\net7.0\firstOfAll.deps.json
+D:\My\Coding\CSLessons\firstOfAll\bin\Debug\net7.0\firstOfAll.runtimeconfig.json
+D:\My\Coding\CSLessons\firstOfAll\bin\Debug\net7.0\firstOfAll.dll
+D:\My\Coding\CSLessons\firstOfAll\bin\Debug\net7.0\firstOfAll.pdb
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.AssemblyInfoInputs.cache
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.AssemblyInfo.cs
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.csproj.CoreCompileInputs.cache
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.dll
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\refint\firstOfAll.dll
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.pdb
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\firstOfAll.genruntimeconfig.cache
+D:\My\Coding\CSLessons\firstOfAll\obj\Debug\net7.0\ref\firstOfAll.dll
